@@ -73,14 +73,21 @@ Here are some projects I'm working on and plan to showcase.
 
 ---
 
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princesonker&show_icons=true&theme=tokyonight&hide_border=true" alt="Prince Sonkar's GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesonker&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=princesonker&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Prince Sonkar GitHub Statistics"
+    width="48%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=princesonker&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    width="48%"
+  />
 </p>
 
 ---
