@@ -100,10 +100,15 @@ Here are some projects I'm working on and plan to showcase.
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/princesonker/princesonker/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/princesonker/princesonker/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
