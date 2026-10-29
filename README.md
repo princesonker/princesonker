@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Machine+Learning+Solutions;Exploring+Generative+AI;Python+%7C+SQL+%7C+Data+Visualization" alt="Typing animation"/>
 
-<a href="https://prince-portfolio-new-omega.vercel.app/">
+<a href="https://prince-portfolio-smoky-eight.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/princesonkar">
@@ -89,6 +89,7 @@ I enjoy transforming raw data into meaningful insights, developing predictive mo
 ## 💼 Experience
 
 ### Generative AI Intern — IBM
+
 *February 2026 – March 2026*
 
 - Streamlined data collection and reporting workflows, reducing processing time by **20%**.
@@ -100,6 +101,7 @@ I enjoy transforming raw data into meaningful insights, developing predictive mo
 ## 🚀 Featured Projects
 
 ### 🧠 Mental Health Score Predictor
+
 *Machine Learning · Python · Data Preprocessing*
 
 - Developed a machine learning model to estimate mental health scores from lifestyle and behavioral factors.
@@ -107,13 +109,15 @@ I enjoy transforming raw data into meaningful insights, developing predictive mo
 - Benchmarked multiple classification algorithms to identify the best-performing approach.
 
 ### ♻️ AI-Powered Waste Detector
+
 *Python · FastAPI · Gemini Vision API · Computer Vision*
 
-- Developed an AI-powered platform to analyze uploaded and real-time camera images.
+- Developed an AI-powered platform to analyze uploaded images and real-time camera images.
 - Classified waste types, assessed risk levels, and recommended suitable disposal methods.
 - Combined a FastAPI backend with vision-based AI capabilities.
 
 ### 📰 Fake News Detector
+
 *Python · Machine Learning · Natural Language Processing*
 
 - Built a machine learning classifier to distinguish real from fake news articles.
@@ -134,8 +138,8 @@ I enjoy transforming raw data into meaningful insights, developing predictive mo
 
 ## 📜 Certifications
 
-- 📘 Applied Data Science with Python — Cognitive Class / IBM Skills Network
-- 🤖 Machine Learning Basics — Cognitive Class / IBM Skills Network
+- 📘 **Applied Data Science with Python** — Cognitive Class / IBM Skills Network
+- 🤖 **Machine Learning Basics** — Cognitive Class / IBM Skills Network
 
 ---
 
@@ -175,12 +179,16 @@ I enjoy transforming raw data into meaningful insights, developing predictive mo
 
 <div align="center">
 
-<a href="https://prince-portfolio-new-omega.vercel.app/">
+<a href="https://prince-portfolio-smoky-eight.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/princesonkar">
   <img src="https://img.shields.io/badge/LinkedIn-Prince_Sonkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Princesonker">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:prince.webdev.in@gmail.com">
